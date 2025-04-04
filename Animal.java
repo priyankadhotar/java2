@@ -20,6 +20,7 @@ public class Main {
     public static void main(String[] args) { 
         Dog d = new Dog();
         Cat c = new Cat();
+        dog d;
         d.sound(); 
         d.bark();  
         c.sound(); 
